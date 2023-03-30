@@ -1,4 +1,4 @@
-# This modeling and mapping fraemwork can be used for regression and classification based on Google Earth Engine and TensorFlow. 
+# This modeling and mapping framework can be used for regression and classification based on Google Earth Engine and TensorFlow. 
 # The code is an example of regression (neural network model). 
 # It can be used for the estimation of biomass, productivity, carbon storage and so on. 
 # Paper in production, 
